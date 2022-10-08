@@ -1,8 +1,10 @@
 # 401-People-French-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/115
+
 
 ## Description
 401 speakers participate in this recording. 50 sentences for each speaker, total 10.9 hours. Recording texts include in-car scene, smart home, smart speech assistant. Texts are accurate after manually transcribed. Recording devices are mainstream Android phones and iPhones. It can be used for in-car scene, smart home and speech assistant.
+
+For more details, please refer to the link: https://bit.ly/3UECwB1
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 3 noise symbols, 5special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
