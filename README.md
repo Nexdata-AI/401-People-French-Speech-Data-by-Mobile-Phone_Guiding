@@ -4,7 +4,7 @@
 ## Description
 401 speakers participate in this recording. 50 sentences for each speaker, total 10.9 hours. Recording texts include in-car scene, smart home, smart speech assistant. Texts are accurate after manually transcribed. Recording devices are mainstream Android phones and iPhones. It can be used for in-car scene, smart home and speech assistant.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/115?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/115?source=Github
 
 
 
